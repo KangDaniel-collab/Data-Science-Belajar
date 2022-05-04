@@ -1,0 +1,5 @@
+   kode  absen   nama    nilai      nilai    nilai     ket
+                siswa   tes       uts      uas   nilai
+   1200   1    wahyu     80    78     83     C
+   1900   2    arif     86    85     85     B
+   1210   3    yusuf     90    88     90     A
